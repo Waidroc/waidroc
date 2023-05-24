@@ -35,3 +35,11 @@ I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/077i6AUL
 - [Writeup - NightCityCTF](https://waidroc.github.io/posts/NightCityCTF/)
 - [QRishing ¿Cómo lo lleva a cabo un ciberdelincuente?](https://waidroc.github.io/posts/QRishing/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🕹️ Labs Profiles:
+- [TryHackMe](https://tryhackme.com/p/waidroc)
+- [HackMyVM](https://hackmyvm.eu/profile/?user=Waidroc)
+- [CyberDefenders](https://cyberdefenders.org/p/Waidroc#overview)<!-- LABS-PROFILES-LIST:START -->
+<!-- LABS-PROFILES-LIST:END -->
