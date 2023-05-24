@@ -6,8 +6,12 @@
 <a href="https://www.buymeacoffee.com/waidrocx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Waidroc&style=flat-square&color=blue" alt=""></p>
+[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network)
 
 <h1 align="center">Hey there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Waidroc+%F0%9F%91%8B;Computer+Science+Student;Back End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
