@@ -39,7 +39,7 @@ I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/077i6AUL
 ---
 
 ### 🕹️ Labs Profiles:
-- [TryHackMe](https://tryhackme.com/p/waidroc)
+- [TryHackMe](https://tryhackme.com/p/Waidroc)
 - [HackMyVM](https://hackmyvm.eu/profile/?user=Waidroc)
 - [CyberDefenders](https://cyberdefenders.org/p/Waidroc#overview)<!-- LABS-PROFILES-LIST:START -->
 <!-- LABS-PROFILES-LIST:END -->
