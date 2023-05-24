@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="500"/></p>
+<p align="center"><img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/alfonso-ca"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
