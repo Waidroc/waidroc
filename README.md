@@ -19,7 +19,7 @@ I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/WUlplcMp
 - 🔭 I’m working as a IT technician in charge of Cybersecurity.
 - 🌱 Always learning and in continuous growth.
 - ⚡ In my free time I solve CTFs, challengues and read/make tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Waidroc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-ca)    ![Protonmail](https://img.shields.io/badge/waidroc@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Waidroc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-ca)    ![Protonmail](https://img.shields.io/badge/waidroc@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&width=10)
 
 ---
 
