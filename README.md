@@ -11,14 +11,14 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :woman_technologist: &nbsp;About Me :
+### :¡man_technologist: &nbsp;About Me :
 
 I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - 🔭 I’m working as a IT technician in charge of Cybersecurity.
 - 🌱 Always learning and in continuous growth.
 - ⚡ In my free time I solve CTFs, challengues and read/make tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-ca)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Waidroc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-ca)
 
 ---
 
