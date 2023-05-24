@@ -14,7 +14,7 @@
 
 ### 👨‍💻 &nbsp;About Me :
 
-I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif" width="30"> from Spain.
 
 - 🔭 I’m working as a IT technician in charge of Cybersecurity.
 - 🌱 Always learning and in continuous growth.
