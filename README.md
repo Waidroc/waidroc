@@ -31,6 +31,7 @@ I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/077i6AUL
 ---
 
 ### ✍️ Blog Posts : 
+- [La importancia de la concienciación de los usuarios en la ciberseguridad empresarial. Simulacro de Ransomware](https://waidroc.github.io/posts/ConcienciacionRansom/)
 - [Implementación de un Honeypot con T-Pot](https://waidroc.github.io/posts/TPot/)
 - [Writeup - NightCityCTF](https://waidroc.github.io/posts/NightCityCTF/)
 - [QRishing ¿Cómo lo lleva a cabo un ciberdelincuente?](https://waidroc.github.io/posts/QRishing/)<!-- BLOG-POST-LIST:START -->
