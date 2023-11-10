@@ -1,5 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300"/></p>
 <p align="center">
+<a href="https://www.linkedin.com/in/alfonso-ca"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
 <a href="https://www.buymeacoffee.com/waidrocx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
@@ -18,7 +19,7 @@ I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/077i6AUL
 - 🔭 I’m working as a Cybersecurity Analyst.
 - 🌱 Always learning and in continuous growth.
 - ⚡ In my free time I solve CTFs, challengues and read/make tech articles.
-- 📫 How to reach me: &nbsp; ![Protonmail](https://img.shields.io/badge/waidroc@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Waidroc-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-ca)                       ![Protonmail](https://img.shields.io/badge/waidroc@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 
 ---
 
