@@ -15,7 +15,7 @@
 
 I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="30"> from Spain.
 
-- 🔭 I’m working as a IT technician in charge of Cybersecurity.
+- 🔭 I’m working as a Cybersecurity Analyst.
 - 🌱 Always learning and in continuous growth.
 - ⚡ In my free time I solve CTFs, challengues and read/make tech articles.
 - 📫 How to reach me: &nbsp; ![Protonmail](https://img.shields.io/badge/waidroc@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
@@ -30,6 +30,7 @@ I am a Cybersecurity Specialist <img src="https://media.giphy.com/media/077i6AUL
 ---
 
 ### ✍️ Blog Posts : 
+- [Canarytokens](https://waidroc.github.io/posts/CanaryTokens/)
 - [Pentesting Active Directory](https://waidroc.github.io/posts/PentestingAD/)
 - [La importancia de la concienciación de los usuarios en la ciberseguridad empresarial. Simulacro de Ransomware](https://waidroc.github.io/posts/ConcienciacionRansom/)
 - [Implementación de un Honeypot con T-Pot](https://waidroc.github.io/posts/TPot/)
